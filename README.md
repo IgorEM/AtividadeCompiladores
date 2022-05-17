@@ -1,6 +1,6 @@
 # AtividadeCompiladores
 
-Task 1
+## Task 1
 
 Roteiro:
 - rever a Aula 07 sobre notacao posfixa [reverse polish notation]
@@ -24,7 +24,7 @@ Saida: 20
 ![image](https://user-images.githubusercontent.com/50914198/160900489-9ab14709-52bd-4d92-ae99-bede13124b3c.png)
 
 
-Task 2
+## Task 2
 
 Roteiro:
 - rever a Aula 11 sobre introducao a analise lexica [scanning]
@@ -54,7 +54,7 @@ Error: Unexpected character: s
 *Obs: para implementacao da lista de tokens, a classe Token e TokenType em anexo devera servir de suporte para o [manual] scanning
 **Obs: obviamente minimas alteracoes podem ser feitas [ex: adaptar o pacote das classes em anexo para seu projeto]
 
-Task 3
+## Task 3
 
 Como mostrado na [Aula 18], a gramatica atual da nossa RPN eh a seguinte:
 
